@@ -10,7 +10,7 @@ b=int(input("Masukkan bilangan kedua : "))
 ```
 if a > b:
 ```
-![gambar](gambar/gam1.png)
+![gambar](gambar/lab1.1.png)
 
 ## Tugas 2
 - buat (def) dari angka terbesar,tengah,dan terkecil
@@ -29,7 +29,7 @@ def nilai_tengah (a, b, c):
     return b
   return c
   ```
-  ![gambar](gambar/gam2.png)
+  ![gambar](gambar/lab1.2.png)
   
   ## Tugas 3
   
@@ -45,7 +45,7 @@ def nilai_tengah (a, b, c):
         print(f"{product:>4}", end='')
     print()
   ```
-  ![gambar](gambar/gam3.png)
+  ![gambar](gambar/lab1.3.1.png)
   
   ## Tugas 4
   - masukan nilai n dengan (int) 
@@ -64,5 +64,5 @@ for i in range (jumlah):
     i = random.uniform(.0,.5)
     a+=1
 ```
-![gambar](gambar/gam4.png)
+![gambar](gambar/lab1.4.png)
 
